@@ -1,0 +1,10 @@
+1. Comments card
+2. Replies card
+3. Upvote/Downvote counter
+4. Avatar
+5. Timer
+6. Reply button
+7. Actual comment
+8. Delete button
+9. Edit button
+10. Modal
